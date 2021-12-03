@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @acnk72
-- 👀 I’m interested in programming in general
-- 🌱 I’m currently learning about machine learning and python with libraries such as numpy and pandas
-- 💞️ I’m looking to collaborate on any project concerning mushrooms/fungi and wild flowers and plants
 - 📫 How to reach me: here or discord @ acnk72#3003
 
 <!---
